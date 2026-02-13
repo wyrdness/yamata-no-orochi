@@ -1,0 +1,125 @@
+{
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-02-13",
+    "repository": "https://github.com/wyrdness/yamata-no-orochi",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    }
+  },
+  "phenomenon": {
+    "id": "yamata-no-orochi",
+    "name": "Yamata-no-Orochi (ヤマタノオロチ)",
+    "aliases": [],
+    "category": "MYTHOLOGICAL_CREATURE",
+    "subcategory": "Mythological Serpent-Dragon",
+    "tags": [
+      "purification-and-renewal"
+    ],
+    "status": "documented",
+    "description": {
+      "summary": "The creature's mythology is preserved in Japan's oldest written texts, the *Kojiki* (712 CE) and *Nihon Shoki* (720 CE), making it one of the foundational narratives of Japanese culture and national identity.",
+      "full": "The creature's mythology is preserved in Japan's oldest written texts, the *Kojiki* (712 CE) and *Nihon Shoki* (720 CE), making it one of the foundational narratives of Japanese culture and national identity. The story of Orochi's defeat not only established the divine lineage of the Yamato imperial family but also yielded one of Japan's three Imperial Regalia—the legendary sword Kusanagi-no-Tsurugi (草薙の剣, \\\"Grass-Cutting Sword\\\"), also known as Ame-no-Murakumo-no-Tsurugi (天叢雲剣, \\\"Sword of the Gathering Clouds of Heaven\\\"). Beyond its narrative importance, Yamata-no-Orochi serves as a powerful symbol representing multiple interpretations: the destructive flooding of the Hi River, the ancient conflict between indigenous Izumo culture and the encroaching Yamato state, the iron-smelting industry of ancient Japan (with the sword representing technological mastery), and the universal mythological theme of the hero's triumph over chaos. The creature's eight-fold nature—eight heads, eight tails, eight valleys, eight peaks—reflects ancient Japanese cosmological numerology and the concept of multiplicity embodying overwhelming power. The legend continues to resonate in modern Japanese culture, appearing in countless artistic works, literature, films, video games, and popular media, forever cementing Yamata-no-Orochi as the archetypal Japanese dragon and one of the most recognizable figures in world mythology."
+    },
+    "etymology": {
+      "origin": "Unknown",
+      "meaning": "To be documented",
+      "first_use": "Unknown"
+    }
+  },
+  "classification": {
+    "taxonomy": {
+      "category": "MYTHOLOGICAL_CREATURE",
+      "type": "Mythological Serpent-Dragon",
+      "subtype": "Unknown",
+      "variant": "Unknown"
+    },
+    "related_phenomena": []
+  },
+  "characteristics": {
+    "physical": {
+      "features": [],
+      "morphology": "See README.md for detailed physical description"
+    },
+    "abilities": [],
+    "behavior": {
+      "activity_period": "unknown",
+      "disposition": "unknown",
+      "habitat_preference": []
+    }
+  },
+  "distribution": {
+    "range": {
+      "description": "Unknown",
+      "continents": [],
+      "countries": [],
+      "regions": []
+    },
+    "hotspots": [],
+    "temporal": {
+      "first_recorded": {
+        "date": "Unknown",
+        "circa": true,
+        "source": "Traditional folklore"
+      }
+    }
+  },
+  "history": {
+    "origins": {
+      "cultural_roots": "Unknown",
+      "earliest_accounts": "See README.md for historical details",
+      "folklore_connections": "Unknown"
+    },
+    "timeline": []
+  },
+  "sightings": {
+    "statistics": {
+      "total_documented": 0,
+      "verified": 0,
+      "disputed": 0,
+      "debunked": 0
+    },
+    "notable": [],
+    "database_path": "./sightings/"
+  },
+  "evidence": {
+    "physical": [],
+    "photographic": [],
+    "video": [],
+    "audio": [],
+    "trace": []
+  },
+  "theories": {
+    "paranormal": [],
+    "scientific": [],
+    "skeptical": []
+  },
+  "cultural": {
+    "folklore": {
+      "traditions": [],
+      "stories": [],
+      "beliefs": "See README.md for cultural context"
+    },
+    "popular_culture": {
+      "literature": [],
+      "film_tv": [],
+      "games": [],
+      "other": []
+    }
+  },
+  "research": {
+    "researchers": [],
+    "organizations": [],
+    "ongoing_studies": "None documented"
+  },
+  "sources": []
+}
